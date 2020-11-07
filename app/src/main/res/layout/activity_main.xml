@@ -18,7 +18,8 @@
             android:gravity="center_horizontal|center_vertical"
             android:text="@string/profil_fakultas_upn"
             android:textColor="@android:color/black"
-            android:textSize="24sp" />
+            android:textSize="24sp"
+            android:textStyle="bold"/>
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent">
